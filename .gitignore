@@ -1,0 +1,12 @@
+tmp/
+index.html_old
+Thumbs
+DS_Store
+_backup
+/site for import/_backup
+text._backup
+NeuroStartUp.png_backup
+*_backup
+# добавить файл.gitignore
+echo ".gitignore"
+
